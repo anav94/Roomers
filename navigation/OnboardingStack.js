@@ -7,7 +7,7 @@ import EmailScreen from '../screens/onboarding/EmailScreen';
 import PhoneScreen from '../screens/onboarding/PhoneScreen';
 import NameScreen from '../screens/onboarding/NameScreen';
 import DOBScreen from '../screens/onboarding/DOBScreen';
-import HometownScreen from '../screens/onboarding/HometownScreen';
+import HometownScreen from '../screens/onboarding/CourseYearScreen';
 
 const Stack = createStackNavigator();
 
